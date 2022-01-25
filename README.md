@@ -1,6 +1,6 @@
 ### prev! 😪
 ###### Student
-- 🌱 Learning: php, front end development
+- 🌱 Learning: php
 - 🦝 Studied: python, C#, html, .NET reverse
 - 📫 Discord: prev!#8593
 
