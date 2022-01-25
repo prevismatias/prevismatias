@@ -1,6 +1,6 @@
 ### prev! 😪
 ###### Student
-- 🌱 Learning: php
-- 🦝 Studied: python, C#, html, .NET reverse
+- 🌱 Learning: php, python, html
+- 🦝 Studied: C#, .NET reverse
 - 📫 Discord: prev!#8593
 
