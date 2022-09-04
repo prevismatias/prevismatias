@@ -1,5 +1,4 @@
 ### prev! 😪
-###### Student
 - 🌱 Learning: php, C++
 - 🦝 Studied: C#, .NET reverse
 - 📫 Discord: prev!#8593
