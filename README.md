@@ -1,7 +1,7 @@
 ### . prev / Kacey
 C#, .NET reverse | C++
 ## . Profiles
-Discord: spritecs
+Discord: prev._.
 
 ##  . Links
 
