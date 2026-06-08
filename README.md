@@ -1,6 +1,6 @@
 ### prev / Kacey
 C#, .NET reverse | C++ | Python
-## . Profiles
+## Profiles
 Discord: prev._.
 
 ## Links
