@@ -5,6 +5,4 @@ Discord: prev._.
 
 ## Links
 
-[ihatejs.dev](https://ihatejs.dev)
-
 [BEST SERVER HOST](https://trivox.sh/)
